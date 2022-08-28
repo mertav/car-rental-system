@@ -1,4 +1,8 @@
 
+# Car Rental System
+
+The car rental system is a system designed to meet the specific needs of car rental companies, travel companies, and travel agencies.
+
 ## Preview
 The interface of the application
 
